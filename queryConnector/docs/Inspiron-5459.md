@@ -1,5 +1,5 @@
-On the Inspiron 5459  I have two cards and I got this output.
-So is the first GPU not connected to any connector.
+On the Inspiron 5459  there are two cards and I got this output.
+So why is the first GPU not connected to any connector ?
 
 ```bash
 # ./queryConnector /dev/dri/card1 
