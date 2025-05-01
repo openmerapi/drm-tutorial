@@ -2,8 +2,7 @@
 
 queryConnector takes the first argument /dev/dri/cardX where X=0,1,...
 On some systems you will find more than one card. For example on one laptop
-I found /dev/dri/card0 and /dev/dri/card1. card0 in this laptop was the 
-integrated Intel GPU while card1 was the discrete AMD GPU.
+I found /dev/dri/card1 and /dev/dri/card2. 
 
 The following output is from another laptop that has only one GPU and three
 connectors.
